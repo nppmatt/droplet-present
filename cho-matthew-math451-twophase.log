@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10 Portable) (preloaded format=pdflatex 2023.10.12)  20 MAR 2024 11:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10 Portable) (preloaded format=pdflatex 2023.10.12)  20 MAR 2024 11:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -841,44 +841,52 @@ Overfull \vbox (148.28401pt too high) detected at line 117
 [14
 
  <./img/6-twophase.png>]
-<img/7-current.png, id=96, 578.91281pt x 579.66562pt>
+<img/5-headers.png, id=96, 611.28375pt x 337.26pt>
+File: img/5-headers.png Graphic file (type png)
+<use img/5-headers.png>
+Package pdftex.def Info: img/5-headers.png  used on input line 123.
+(pdftex.def)             Requested size: 307.28987pt x 169.53531pt.
+ [15
+
+ <./img/5-headers.png>]
+<img/7-current.png, id=102, 578.91281pt x 579.66562pt>
 File: img/7-current.png Graphic file (type png)
 <use img/7-current.png>
-Package pdftex.def Info: img/7-current.png  used on input line 122.
+Package pdftex.def Info: img/7-current.png  used on input line 128.
 (pdftex.def)             Requested size: 215.10196pt x 215.3751pt.
 
-Overfull \vbox (5.16595pt too high) detected at line 122
+Overfull \vbox (5.16595pt too high) detected at line 128
  []
 
-[15
+[16
 
- <./img/7-current.png>] [16
-
-] [17
+ <./img/7-current.png>] [17
 
 ] [18
 
 ] [19
 
+] [20
+
 ]
-<img/8-slurm.png, id=123, 627.09282pt x 341.77687pt>
+<img/8-slurm.png, id=129, 627.09282pt x 341.77687pt>
 File: img/8-slurm.png Graphic file (type png)
 <use img/8-slurm.png>
-Package pdftex.def Info: img/8-slurm.png  used on input line 160.
+Package pdftex.def Info: img/8-slurm.png  used on input line 166.
 (pdftex.def)             Requested size: 230.46739pt x 125.61061pt.
- [20
-
- <./img/8-slurm.png>]
-<img/9-njit.png, id=129, 295.1025pt x 49.68562pt>
-File: img/9-njit.png Graphic file (type png)
-<use img/9-njit.png>
-Package pdftex.def Info: img/9-njit.png  used on input line 164.
-(pdftex.def)             Requested size: 276.559pt x 46.56422pt.
  [21
 
- <./img/9-njit.png>] [22
+ <./img/8-slurm.png>]
+<img/9-njit.png, id=135, 295.1025pt x 49.68562pt>
+File: img/9-njit.png Graphic file (type png)
+<use img/9-njit.png>
+Package pdftex.def Info: img/9-njit.png  used on input line 170.
+(pdftex.def)             Requested size: 276.559pt x 46.56422pt.
+ [22
 
-] [23
+ <./img/9-njit.png>] [23
+
+] [24
 
 ]
 \tf@nav=\write6
@@ -899,17 +907,17 @@ Package rerunfilecheck Info: File `cho-matthew-math451-twophase.out' has not cha
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23932 strings out of 475247
- 466120 string characters out of 5752581
+ 23943 strings out of 475247
+ 466322 string characters out of 5752581
  1923785 words of memory out of 5000000
- 44916 multiletter control sequences out of 15000+600000
+ 44925 multiletter control sequences out of 15000+600000
  565114 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,13n,123p,630b,448s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cho-matthew-math451-twophase.pdf (23 pages, 3025054 bytes).
+Output written on cho-matthew-math451-twophase.pdf (24 pages, 3052486 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
- 92 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 182 PDF objects out of 1000 (max. 8388607)
+ 49 named destinations out of 1000 (max. 500000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
