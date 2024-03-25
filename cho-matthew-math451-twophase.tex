@@ -21,6 +21,7 @@
 % Modern Analysis vs "Post-Moore's Law"-Analysis
 \begin{frame}
     \frametitle{CFD Methodology}
+    \underline{Common Ground}
 
     We have a mental model. Is it closer to what we think is real or not?
 \end{frame}
@@ -107,7 +108,8 @@
     isotropic conditions, this is essentially solving for a two-phase flow 
     problem where the substrate is a solid boundary.
 
-    (We are interested in viscosity and advection more than heat transfer.)
+    (For now, we are interested in viscosity and advection more than heat 
+    transfer.)
 \end{frame}
 \begin{frame}
     \frametitle{Software Framework}
@@ -122,43 +124,114 @@
     \includegraphics[width=\textwidth]{img/5-headers.png}
 \end{frame}
 
+% Showing off qualatative aspects of development.
 \begin{frame}
     \frametitle{Current Work: 2-D Simulation}
-    \includegraphics[width=0.7\textwidth]{img/7-current.png}
+    \underline{Some Problems and Solutions:}
+
+    - Even for symmetric problems, mirroring about an axis isn't sufficient.
+\end{frame}
+\begin{frame}
+    \frametitle{Current Work: 2-D Simulation}
+
+    \includegraphics[width=0.7\textwidth]{img/11-pillowing.png}
 \end{frame}
 \begin{frame}
     \frametitle{Current Work: 2-D Simulation}
     \underline{Some Problems and Solutions:}
 
-    - Even for symmetric problems, mirroring a simpler domain isn't sufficient.
+    - Even for symmetric problems, mirroring about an axis isn't sufficient.
+    $\rightarrow$ Use a 2D model.
 \end{frame}
 \begin{frame}
     \frametitle{Current Work: 2-D Simulation}
     \underline{Some Problems and Solutions:}
 
-    - Even for symmetric problems, mirroring a simpler domain isn't sufficient.
+    - Even for symmetric problems, mirroring about an axis isn't sufficient.
+    $\rightarrow$ Use a 2D model.
 
     - At small length scales, numerical errors dominate the physics unless if 
     they are mitigated.
 \end{frame}
 \begin{frame}
     \frametitle{Current Work: 2-D Simulation}
+
+    \includegraphics[width=0.7\textwidth]{img/10-assymetry.png}
+\end{frame}
+\begin{frame}
+    \frametitle{Current Work: 2-D Simulation}
     \underline{Some Problems and Solutions:}
 
-    - Even for symmetric problems, mirroring a simpler domain isn't sufficient.
+    - Even for symmetric problems, mirroring about an axis isn't sufficient.
+    $\rightarrow$ Use a 2D model.
+
+    - At small length scales, numerical errors dominate the physics unless if 
+    they are mitigated.
+
+    $\rightarrow$ Use an adaptive grid and tune it.
+    
+    $\rightarrow$ There is no avoiding going smaller without approximation, 
+    which is not a suitable solution.
+\end{frame}
+\begin{frame}
+    \frametitle{Current Work: 2-D Simulation}
+    \underline{Some Problems and Solutions:}
+
+    - Even for symmetric problems, mirroring about an axis isn't sufficient.
 
     - At small length scales, numerical errors dominate the physics unless if 
     they are mitigated.
     
     - Experiment Design: Trying to match real conditions is incredibly 
-    computationally intensive, have to settle for simpler model with respective 
-    changes in non-dimensional numbers.
+    computationally intensive, have to settle for simpler/coarser model with 
+    respective changes in non-dimensional numbers.
 \end{frame}
 
+% Qualatative results???
 \begin{frame}
     \frametitle{Results and Future Work}
     Currently have a fairly reasonable simulation of a "nanodroplet" (micro and
-    nanometer length scale) that agrees with constants reported in literature.
+    nanometer length scale) that agrees with constants reported in literature:
+    
+    (Wang et. al. "Phase diagram for nanodroplet impact on solid surfaces" 2021).
+\end{frame}
+\begin{frame}
+    \frametitle{Results and Future Work}
+    \includegraphics[width=0.8\textwidth]{img/wang-3d.png}
+\end{frame}
+\begin{frame}
+    \frametitle{Results and Future Work}
+    \includegraphics[width=\textwidth]{img/wang-sim.png}
+\end{frame}
+\begin{frame}
+    \frametitle{Results and Future Work}
+    Literature Example:
+
+    \
+    \includegraphics[width=0.6\textwidth]{img/wang-constants.png}
+\end{frame}
+\begin{frame}
+    \frametitle{Results and Future Work}
+    Literature Example:
+
+    \
+    \includegraphics[width=0.6\textwidth]{img/wang-constants.png}
+
+    Our Constants:
+
+    Reynolds = 5.0
+
+    Weber = $\dfrac{\rho v^2 l}{\sigma} 
+    = \dfrac{(0.001)(2.0)(0.5)}{0.05}
+    = 0.02$ (nice!)
+\end{frame}
+\begin{frame}
+    \frametitle{Results and Future Work}
+    \includegraphics[width=0.7\textwidth]{img/7-current.png}
+\end{frame}
+\begin{frame}
+    \frametitle{Results and Future Work}
+    Okay, that's cool, but where are your numbers?
 \end{frame}
 \begin{frame}
     \frametitle{Results and Future Work}
@@ -169,7 +242,7 @@
     \includegraphics[width=0.9\textwidth]{img/9-njit.png}
 \end{frame}
 \begin{frame}
-    \frametitle{Results and Future Work}
+    \frametitle{Future Work}
     Currently have a fairly reasonable simulation of a "nanodroplet" (micro and
     nanometer length scale) that agrees with constants reported in literature.
 
@@ -177,14 +250,14 @@
     (mm length).
 \end{frame}
 \begin{frame}
-    \frametitle{Results and Future Work}
+    \frametitle{Future Work}
     Currently have a fairly reasonable simulation of a "nanodroplet" (micro and
     nanometer length scale) that agrees with constants reported in literature.
 
     Natural thing to do would be to incrementally approach larger scale 
-    (mm length).
+    (mm-scale drops).
 
-    The way forward is then to apply tried and true computer 
+    The way forward is simply applying known computer 
     programming/engineering techniques to make computational problem tractable.
 \end{frame}
 
