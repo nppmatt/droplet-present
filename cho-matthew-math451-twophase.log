@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10 Portable) (preloaded format=pdflatex 2023.10.12)  27 MAR 2024 10:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10 Portable) (preloaded format=pdflatex 2023.10.12)  27 MAR 2024 10:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -762,7 +762,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 File: img/8-slurm.png Graphic file (type png)
 <use img/8-slurm.png>
 Package pdftex.def Info: img/8-slurm.png  used on input line 24.
-(pdftex.def)             Requested size: 230.46739pt x 125.61061pt.
+(pdftex.def)             Requested size: 307.28987pt x 167.48256pt.
  [2
 
  <./img/8-slurm.png>]
@@ -770,7 +770,7 @@ Package pdftex.def Info: img/8-slurm.png  used on input line 24.
 File: img/9-njit.png Graphic file (type png)
 <use img/9-njit.png>
 Package pdftex.def Info: img/9-njit.png  used on input line 28.
-(pdftex.def)             Requested size: 276.559pt x 46.56422pt.
+(pdftex.def)             Requested size: 245.83282pt x 41.39067pt.
  [3
 
  <./img/9-njit.png>]
@@ -827,165 +827,179 @@ Package pdftex.def Info: img/3-hidman2023.jpg  used on input line 96.
 (pdftex.def)             Requested size: 307.28987pt x 122.14673pt.
  [12
 
- <./img/3-hidman2023.jpg>] [13
+ <./img/3-hidman2023.jpg>]
+<img/simplified-ns.png, id=85, 373.395pt x 116.68594pt>
+File: img/simplified-ns.png Graphic file (type png)
+<use img/simplified-ns.png>
+Package pdftex.def Info: img/simplified-ns.png  used on input line 106.
+(pdftex.def)             Requested size: 307.28987pt x 96.03204pt.
+ [13
 
-]
-<img/5-headers.png, id=91, 611.28375pt x 337.26pt>
+ <./img/simplified-ns.png>]
+<img/5-headers.png, id=92, 611.28375pt x 337.26pt>
 File: img/5-headers.png Graphic file (type png)
 <use img/5-headers.png>
-Package pdftex.def Info: img/5-headers.png  used on input line 110.
+Package pdftex.def Info: img/5-headers.png  used on input line 112.
 (pdftex.def)             Requested size: 245.83282pt x 135.62721pt.
  [14
 
  <./img/5-headers.png>]
-<img/numbers.png, id=97, 200.24812pt x 115.93312pt>
+<img/numbers.png, id=98, 200.24812pt x 115.93312pt>
 File: img/numbers.png Graphic file (type png)
 <use img/numbers.png>
-Package pdftex.def Info: img/numbers.png  used on input line 116.
+Package pdftex.def Info: img/numbers.png  used on input line 118.
 (pdftex.def)             Requested size: 245.83282pt x 142.3333pt.
  [15
 
  <./img/numbers.png>]
-<img/more-numbers.png, id=103, 315.42844pt x 221.32687pt>
-File: img/more-numbers.png Graphic file (type png)
-<use img/more-numbers.png>
-Package pdftex.def Info: img/more-numbers.png  used on input line 122.
-(pdftex.def)             Requested size: 245.83282pt x 172.49577pt.
+<img/numberslist.png, id=104, 1317.42188pt x 471.26062pt>
+File: img/numberslist.png Graphic file (type png)
+<use img/numberslist.png>
+Package pdftex.def Info: img/numberslist.png  used on input line 124.
+(pdftex.def)             Requested size: 307.28987pt x 109.91931pt.
  [16
 
- <./img/more-numbers.png>]
-<img/geometry.png, id=109, 283.0575pt x 67.75313pt>
-File: img/geometry.png Graphic file (type png)
-<use img/geometry.png>
-Package pdftex.def Info: img/geometry.png  used on input line 128.
-(pdftex.def)             Requested size: 245.83282pt x 58.84444pt.
+ <./img/numberslist.png>]
+<img/more-numbers.png, id=110, 315.42844pt x 221.32687pt>
+File: img/more-numbers.png Graphic file (type png)
+<use img/more-numbers.png>
+Package pdftex.def Info: img/more-numbers.png  used on input line 130.
+(pdftex.def)             Requested size: 245.83282pt x 172.49577pt.
  [17
 
- <./img/geometry.png>]
-<img/4-drop.png, id=115, 792.9625pt x 376.40625pt>
-File: img/4-drop.png Graphic file (type png)
-<use img/4-drop.png>
-Package pdftex.def Info: img/4-drop.png  used on input line 133.
-(pdftex.def)             Requested size: 307.28987pt x 145.86739pt.
+ <./img/more-numbers.png>]
+<img/geometry.png, id=116, 283.0575pt x 67.75313pt>
+File: img/geometry.png Graphic file (type png)
+<use img/geometry.png>
+Package pdftex.def Info: img/geometry.png  used on input line 136.
+(pdftex.def)             Requested size: 245.83282pt x 58.84444pt.
  [18
 
- <./img/4-drop.png>] [19
+ <./img/geometry.png>]
+<img/4-drop.png, id=122, 792.9625pt x 376.40625pt>
+File: img/4-drop.png Graphic file (type png)
+<use img/4-drop.png>
+Package pdftex.def Info: img/4-drop.png  used on input line 141.
+(pdftex.def)             Requested size: 307.28987pt x 145.86739pt.
+ [19
+
+ <./img/4-drop.png>] [20
 
 ]
-<img/6-twophase.png, id=127, 727.96968pt x 449.42906pt>
+<img/6-twophase.png, id=134, 727.96968pt x 449.42906pt>
 File: img/6-twophase.png Graphic file (type png)
 <use img/6-twophase.png>
-Package pdftex.def Info: img/6-twophase.png  used on input line 152.
+Package pdftex.def Info: img/6-twophase.png  used on input line 160.
 (pdftex.def)             Requested size: 537.75726pt x 332.00995pt.
 
-Overfull \hbox (230.46739pt too wide) in paragraph at lines 152--152
+Overfull \hbox (230.46739pt too wide) in paragraph at lines 160--160
 [][]  
  []
 
 
-Overfull \vbox (121.8008pt too high) detected at line 152
+Overfull \vbox (121.8008pt too high) detected at line 160
  []
 
-[20
+[21
 
- <./img/6-twophase.png>] [21
+ <./img/6-twophase.png>] [22
 
 ]
-<img/11-pillowing.png, id=138, 299.61937pt x 293.59688pt>
+<img/11-pillowing.png, id=145, 299.61937pt x 293.59688pt>
 File: img/11-pillowing.png Graphic file (type png)
 <use img/11-pillowing.png>
-Package pdftex.def Info: img/11-pillowing.png  used on input line 165.
+Package pdftex.def Info: img/11-pillowing.png  used on input line 173.
 (pdftex.def)             Requested size: 215.10196pt x 210.78479pt.
 
-Overfull \vbox (0.57564pt too high) detected at line 165
+Overfull \vbox (0.57564pt too high) detected at line 173
  []
 
-[22
+[23
 
- <./img/11-pillowing.png>] [23
+ <./img/11-pillowing.png>] [24
 
-] [24
+] [25
 
 ]
-<img/cuttingwood.jpg, id=154, 1074.0125pt x 703.62875pt>
+<img/cuttingwood.jpg, id=162, 1074.0125pt x 703.62875pt>
 File: img/cuttingwood.jpg Graphic file (type jpg)
 <use img/cuttingwood.jpg>
-Package pdftex.def Info: img/cuttingwood.jpg  used on input line 191.
+Package pdftex.def Info: img/cuttingwood.jpg  used on input line 199.
 (pdftex.def)             Requested size: 245.83282pt x 161.04744pt.
- [25
+ [26
 
  <./img/cuttingwood.jpg>]
-<img/10-assymetry.png, id=161, 566.86781pt x 566.115pt>
+<img/10-assymetry.png, id=168, 566.86781pt x 566.115pt>
 File: img/10-assymetry.png Graphic file (type png)
 <use img/10-assymetry.png>
-Package pdftex.def Info: img/10-assymetry.png  used on input line 196.
+Package pdftex.def Info: img/10-assymetry.png  used on input line 204.
 (pdftex.def)             Requested size: 215.10196pt x 214.81496pt.
 
-Overfull \vbox (4.6058pt too high) detected at line 196
+Overfull \vbox (4.6058pt too high) detected at line 204
  []
 
-[26
+[27
 
- <./img/10-assymetry.png>] [27
-
-] [28
+ <./img/10-assymetry.png>] [28
 
 ] [29
 
+] [30
+
 ]
-<img/wang-3d.png, id=182, 656.4525pt x 459.96844pt>
+<img/wang-3d.png, id=189, 656.4525pt x 459.96844pt>
 File: img/wang-3d.png Graphic file (type png)
 <use img/wang-3d.png>
-Package pdftex.def Info: img/wang-3d.png  used on input line 238.
+Package pdftex.def Info: img/wang-3d.png  used on input line 246.
 (pdftex.def)             Requested size: 245.83282pt x 172.2491pt.
- [30
+ [31
 
  <./img/wang-3d.png>]
-<img/wang-constants.png, id=188, 313.17pt x 50.43843pt>
+<img/wang-constants.png, id=196, 313.17pt x 50.43843pt>
 File: img/wang-constants.png Graphic file (type png)
 <use img/wang-constants.png>
-Package pdftex.def Info: img/wang-constants.png  used on input line 247.
+Package pdftex.def Info: img/wang-constants.png  used on input line 257.
 (pdftex.def)             Requested size: 184.3758pt x 29.69606pt.
- [31
+ [32
 
  <./img/wang-constants.png>]
 File: img/wang-constants.png Graphic file (type png)
 <use img/wang-constants.png>
-Package pdftex.def Info: img/wang-constants.png  used on input line 262.
+Package pdftex.def Info: img/wang-constants.png  used on input line 274.
 (pdftex.def)             Requested size: 184.3758pt x 29.69606pt.
- [32
-
-]
-<img/wang-sim.png, id=203, 755.07094pt x 312.41719pt>
-File: img/wang-sim.png Graphic file (type png)
-<use img/wang-sim.png>
-Package pdftex.def Info: img/wang-sim.png  used on input line 268.
-(pdftex.def)             Requested size: 307.28987pt x 127.14322pt.
  [33
 
- <./img/wang-sim.png>]
-<img/wang-high-weber.png, id=209, 500.62032pt x 365.11406pt>
-File: img/wang-high-weber.png Graphic file (type png)
-<use img/wang-high-weber.png>
-Package pdftex.def Info: img/wang-high-weber.png  used on input line 275.
-(pdftex.def)             Requested size: 215.10196pt x 156.87898pt.
+]
+<img/wang-sim.png, id=210, 755.07094pt x 312.41719pt>
+File: img/wang-sim.png Graphic file (type png)
+<use img/wang-sim.png>
+Package pdftex.def Info: img/wang-sim.png  used on input line 280.
+(pdftex.def)             Requested size: 307.28987pt x 127.14322pt.
  [34
 
+ <./img/wang-sim.png>]
+<img/wang-high-weber.png, id=216, 500.62032pt x 365.11406pt>
+File: img/wang-high-weber.png Graphic file (type png)
+<use img/wang-high-weber.png>
+Package pdftex.def Info: img/wang-high-weber.png  used on input line 287.
+(pdftex.def)             Requested size: 215.10196pt x 156.87898pt.
+ [35
+
  <./img/wang-high-weber.png>]
-<img/7-current.png, id=215, 578.91281pt x 579.66562pt>
+<img/7-current.png, id=222, 578.91281pt x 579.66562pt>
 File: img/7-current.png Graphic file (type png)
 <use img/7-current.png>
-Package pdftex.def Info: img/7-current.png  used on input line 279.
+Package pdftex.def Info: img/7-current.png  used on input line 291.
 (pdftex.def)             Requested size: 215.10196pt x 215.3751pt.
 
-Overfull \vbox (5.16595pt too high) detected at line 279
+Overfull \vbox (5.16595pt too high) detected at line 291
  []
 
-[35
+[36
 
- <./img/7-current.png>] [36
+ <./img/7-current.png>] [37
 
-] [37
+] [38
 
 ]
 \tf@nav=\write6
@@ -1006,17 +1020,17 @@ Package rerunfilecheck Info: File `cho-matthew-math451-twophase.out' has not cha
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 24069 strings out of 475247
- 468714 string characters out of 5752581
+ 24087 strings out of 475247
+ 469125 string characters out of 5752581
  1923785 words of memory out of 5000000
- 45025 multiletter control sequences out of 15000+600000
+ 45041 multiletter control sequences out of 15000+600000
  565114 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,13n,123p,630b,448s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cho-matthew-math451-twophase.pdf (37 pages, 4329996 bytes).
+Output written on cho-matthew-math451-twophase.pdf (38 pages, 4469407 bytes).
 PDF statistics:
- 282 PDF objects out of 1000 (max. 8388607)
- 75 named destinations out of 1000 (max. 500000)
- 147 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 289 PDF objects out of 1000 (max. 8388607)
+ 77 named destinations out of 1000 (max. 500000)
+ 157 words of extra memory for PDF output out of 10000 (max. 10000000)
 
