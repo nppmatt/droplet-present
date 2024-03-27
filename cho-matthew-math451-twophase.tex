@@ -20,6 +20,14 @@
 % Analytical Method vs Exploratory Analysis
 % Modern Analysis vs "Post-Moore's Law"-Analysis
 \begin{frame}
+    \frametitle{Admin Things}
+    \includegraphics[width=0.75\textwidth]{img/8-slurm.png}
+\end{frame}
+\begin{frame}
+    \frametitle{Admin Things}
+    \includegraphics[width=0.9\textwidth]{img/9-njit.png}
+\end{frame}
+\begin{frame}
     \frametitle{CFD Methodology}
     \underline{Common Ground}
 
@@ -105,11 +113,11 @@
     using the Volume-of-Fluid method (VOF).
 
     Problem of analysing real droplet behavior is a combination of problems. In 
-    isotropic conditions, this is essentially solving for a two-phase flow 
-    problem where the substrate is a solid boundary.
+    \underline{isotropic conditions}, this is essentially solving for a 
+    two-phase flow problem where the substrate is a solid boundary.
 
-    (For now, we are interested in viscosity and advection more than heat 
-    transfer.)
+    We are interested in viscosity and advection (transport) more than 
+    heat transfer, for now.
 \end{frame}
 \begin{frame}
     \frametitle{Software Framework}
@@ -182,7 +190,7 @@
     - At small length scales, numerical errors dominate the physics unless if 
     they are mitigated.
     
-    - Experiment Design: Trying to match real conditions is incredibly 
+    - Experiment Design: Trying to match real conditions is very 
     computationally intensive, have to settle for simpler/coarser model with 
     respective changes in non-dimensional numbers.
 \end{frame}
@@ -201,14 +209,12 @@
 \end{frame}
 \begin{frame}
     \frametitle{Results and Future Work}
-    \includegraphics[width=\textwidth]{img/wang-sim.png}
-\end{frame}
-\begin{frame}
-    \frametitle{Results and Future Work}
     Literature Example:
 
     \
     \includegraphics[width=0.6\textwidth]{img/wang-constants.png}
+
+    We = Weber Number = $\dfrac{\text{drag forces}}{\text{cohesive forces}}$
 \end{frame}
 \begin{frame}
     \frametitle{Results and Future Work}
@@ -222,24 +228,25 @@
     Reynolds = 5.0
 
     Weber = $\dfrac{\rho v^2 l}{\sigma} 
-    = \dfrac{(0.001)(2.0)(0.5)}{0.05}
-    = 0.02$ (nice!)
+    = \dfrac{(0.001)(2.0)^2(1.0)}{0.05}
+    = 0.08$ (nice!)
+\end{frame}
+\begin{frame}
+    \frametitle{Results and Future Work}
+    \includegraphics[width=\textwidth]{img/wang-sim.png}
+
+    Results appear to generally agree with this more detailed 3-D simulation.
+\end{frame}
+\begin{frame}
+    \frametitle{Results and Future Work}
+    \includegraphics[width=0.7\textwidth]{img/wang-high-weber.png}
+
+    Simulation result w.r.t. Weber Number provides an explanation for phenomena 
+    such as "finger" formation, droplet fragmentation, frozen pancake, etc.
 \end{frame}
 \begin{frame}
     \frametitle{Results and Future Work}
     \includegraphics[width=0.7\textwidth]{img/7-current.png}
-\end{frame}
-\begin{frame}
-    \frametitle{Results and Future Work}
-    Okay, that's cool, but where are your numbers?
-\end{frame}
-\begin{frame}
-    \frametitle{Results and Future Work}
-    \includegraphics[width=0.75\textwidth]{img/8-slurm.png}
-\end{frame}
-\begin{frame}
-    \frametitle{Results and Future Work}
-    \includegraphics[width=0.9\textwidth]{img/9-njit.png}
 \end{frame}
 \begin{frame}
     \frametitle{Future Work}
