@@ -17,8 +17,7 @@
 \begin{document}
 \maketitle
 
-% Analytical Method vs Exploratory Analysis
-% Modern Analysis vs "Post-Moore's Law"-Analysis
+% NJIT
 \begin{frame}
     \frametitle{Admin Things}
     \includegraphics[width=0.75\textwidth]{img/8-slurm.png}
@@ -27,6 +26,9 @@
     \frametitle{Admin Things}
     \includegraphics[width=0.9\textwidth]{img/9-njit.png}
 \end{frame}
+
+% Analytical Method vs Exploratory Analysis
+% Modern Analysis vs "Post-Moore's Law"-Analysis
 \begin{frame}
     \frametitle{CFD Methodology}
     \underline{Common Ground}
@@ -94,16 +96,40 @@
 \end{frame}
 \begin{frame}
     \frametitle{Software Framework}
-    \underline{Introducing Basilisk}
+    \underline{What is this really?}
 
-    \includegraphics[width=\textwidth]{img/4-drop.png}
+    A solution to the Navier-Stokes equations governing flows,
+    using the Volume-of-Fluid method to track where the fluid 
+    interface is located in space.
 \end{frame}
 \begin{frame}
     \frametitle{Software Framework}
-    \underline{What is this really?}
+    \underline{Code Library (Headers)}
 
-    A solution to the Navier-Stokes equations,
-    using the Volume-of-Fluid method (VOF).
+    \includegraphics[width=0.8\textwidth]{img/5-headers.png}
+\end{frame}
+\begin{frame}
+    \frametitle{Software Framework}
+    \underline{Specifying Non-dimensional Numbers}
+
+    \includegraphics[width=0.8\textwidth]{img/numbers.png}
+\end{frame}
+\begin{frame}
+    \frametitle{Software Framework}
+    \underline{Specifying Non-dimensional Numbers}
+
+    \includegraphics[width=0.8\textwidth]{img/more-numbers.png}
+\end{frame}
+\begin{frame}
+    \frametitle{Software Framework}
+    \underline{Specifying Problem Geometry}
+
+    \includegraphics[width=0.8\textwidth]{img/geometry.png}
+\end{frame}
+\begin{frame}
+    \frametitle{Software Framework}
+
+    \includegraphics[width=\textwidth]{img/4-drop.png}
 \end{frame}
 \begin{frame}
     \frametitle{Software Framework}
@@ -121,23 +147,16 @@
 \end{frame}
 \begin{frame}
     \frametitle{Software Framework}
-    \underline{What is this really?}
 
     \includegraphics[width=1.75\textwidth]{img/6-twophase.png}
 \end{frame}
-\begin{frame}
-    \frametitle{Software Framework}
-    \underline{What is this really?}
 
-    \includegraphics[width=\textwidth]{img/5-headers.png}
-\end{frame}
-
-% Showing off qualatative aspects of development.
+% Showing off qualitative aspects of development.
 \begin{frame}
     \frametitle{Current Work: 2-D Simulation}
     \underline{Some Problems and Solutions:}
 
-    - Even for symmetric problems, mirroring about an axis isn't sufficient.
+    - Even for symmetric problems, mirroring about an axis can be problematic.
 \end{frame}
 \begin{frame}
     \frametitle{Current Work: 2-D Simulation}
@@ -148,7 +167,7 @@
     \frametitle{Current Work: 2-D Simulation}
     \underline{Some Problems and Solutions:}
 
-    - Even for symmetric problems, mirroring about an axis isn't sufficient.
+    - Even for symmetric problems, mirroring about an axis can be problematic.
 
     $\rightarrow$ Use a 2D model.
 \end{frame}
@@ -156,7 +175,7 @@
     \frametitle{Current Work: 2-D Simulation}
     \underline{Some Problems and Solutions:}
 
-    - Even for symmetric problems, mirroring about an axis isn't sufficient.
+    - Even for symmetric problems, mirroring about an axis can be problematic.
 
     $\rightarrow$ Use a 2D model.
 
@@ -179,7 +198,7 @@
     \frametitle{Current Work: 2-D Simulation}
     \underline{Some Problems and Solutions:}
 
-    - Even for symmetric problems, mirroring about an axis isn't sufficient.
+    - Even for symmetric problems, mirroring about an axis can be problematic.
 
     $\rightarrow$ Use a 2D model.
 
@@ -195,7 +214,7 @@
     \frametitle{Current Work: 2-D Simulation}
     \underline{Some Problems and Solutions:}
 
-    - Even for symmetric problems, mirroring about an axis isn't sufficient.
+    - Even for symmetric problems, mirroring about an axis can be problematic.
 
     - At small length scales, numerical errors dominate the physics unless if 
     they are mitigated.
