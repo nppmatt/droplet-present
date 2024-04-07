@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10 Portable) (preloaded format=pdflatex 2023.10.12)  27 MAR 2024 10:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10 Portable) (preloaded format=pdflatex 2023.10.12)  7 APR 2024 02:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -758,248 +758,232 @@ Dictionary: translator-theorem-dictionary, Language: English
  (cho-matthew-math451-twophase.nav) [1
 
 {C:/Users/Flying/scoop/apps/latex/current/texmfs/data/fonts/map/pdftex/pdftex.map}]
-<img/8-slurm.png, id=21, 627.09282pt x 341.77687pt>
-File: img/8-slurm.png Graphic file (type png)
-<use img/8-slurm.png>
-Package pdftex.def Info: img/8-slurm.png  used on input line 24.
-(pdftex.def)             Requested size: 307.28987pt x 167.48256pt.
- [2
-
- <./img/8-slurm.png>]
-<img/9-njit.png, id=27, 295.1025pt x 49.68562pt>
-File: img/9-njit.png Graphic file (type png)
-<use img/9-njit.png>
-Package pdftex.def Info: img/9-njit.png  used on input line 28.
-(pdftex.def)             Requested size: 245.83282pt x 41.39067pt.
- [3
-
- <./img/9-njit.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
  (C:\Users\Flying\scoop\apps\latex\current\texmfs\install\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
  (C:\Users\Flying\scoop\apps\latex\current\texmfs\install\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 37.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 27.
  (C:\Users\Flying\scoop\apps\latex\current\texmfs\install\tex/latex/sansmathaccent\ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
-) [4
+) [2
 
-] [5
+] [3
 
 ]
-<img/0-caltech-maxwell.png, id=45, 742.27313pt x 527.72156pt>
+<img/0-caltech-maxwell.png, id=33, 742.27313pt x 527.72156pt>
 File: img/0-caltech-maxwell.png Graphic file (type png)
 <use img/0-caltech-maxwell.png>
-Package pdftex.def Info: img/0-caltech-maxwell.png  used on input line 53.
+Package pdftex.def Info: img/0-caltech-maxwell.png  used on input line 43.
 (pdftex.def)             Requested size: 215.10196pt x 152.92259pt.
- [6
+ [4
 
- <./img/0-caltech-maxwell.png>] [7
+ <./img/0-caltech-maxwell.png>] [5
 
-] [8
+] [6
 
 ]
-<img/1-fisher.jpg, id=62, 770.88pt x 519.44063pt>
+<img/1-fisher.jpg, id=49, 770.88pt x 519.44063pt>
 File: img/1-fisher.jpg Graphic file (type jpg)
 <use img/1-fisher.jpg>
-Package pdftex.def Info: img/1-fisher.jpg  used on input line 74.
+Package pdftex.def Info: img/1-fisher.jpg  used on input line 64.
 (pdftex.def)             Requested size: 215.10196pt x 144.93512pt.
- [9
+ [7
 
  <./img/1-fisher.jpg>]
-<img/2-sisyphus.jpg, id=68, 856.70062pt x 542.025pt>
+<img/2-sisyphus.jpg, id=56, 856.70062pt x 542.025pt>
 File: img/2-sisyphus.jpg Graphic file (type jpg)
 <use img/2-sisyphus.jpg>
-Package pdftex.def Info: img/2-sisyphus.jpg  used on input line 80.
+Package pdftex.def Info: img/2-sisyphus.jpg  used on input line 70.
 (pdftex.def)             Requested size: 215.10196pt x 136.09312pt.
- [10
+ [8
 
- <./img/2-sisyphus.jpg>] [11
+ <./img/2-sisyphus.jpg>] [9
 
 ]
-<img/3-hidman2023.jpg, id=79, 367.87605pt x 146.23193pt>
+<img/3-hidman2023.jpg, id=67, 367.87605pt x 146.23193pt>
 File: img/3-hidman2023.jpg Graphic file (type jpg)
 <use img/3-hidman2023.jpg>
-Package pdftex.def Info: img/3-hidman2023.jpg  used on input line 96.
+Package pdftex.def Info: img/3-hidman2023.jpg  used on input line 86.
 (pdftex.def)             Requested size: 307.28987pt x 122.14673pt.
- [12
+ [10
 
  <./img/3-hidman2023.jpg>]
-<img/simplified-ns.png, id=85, 373.395pt x 116.68594pt>
+<img/simplified-ns.png, id=73, 373.395pt x 116.68594pt>
 File: img/simplified-ns.png Graphic file (type png)
 <use img/simplified-ns.png>
-Package pdftex.def Info: img/simplified-ns.png  used on input line 106.
+Package pdftex.def Info: img/simplified-ns.png  used on input line 96.
 (pdftex.def)             Requested size: 307.28987pt x 96.03204pt.
- [13
+ [11
 
  <./img/simplified-ns.png>]
-<img/5-headers.png, id=92, 611.28375pt x 337.26pt>
+<img/5-headers.png, id=79, 611.28375pt x 337.26pt>
 File: img/5-headers.png Graphic file (type png)
 <use img/5-headers.png>
-Package pdftex.def Info: img/5-headers.png  used on input line 112.
+Package pdftex.def Info: img/5-headers.png  used on input line 102.
 (pdftex.def)             Requested size: 245.83282pt x 135.62721pt.
- [14
+ [12
 
  <./img/5-headers.png>]
-<img/numbers.png, id=98, 200.24812pt x 115.93312pt>
+<img/numbers.png, id=85, 200.24812pt x 115.93312pt>
 File: img/numbers.png Graphic file (type png)
 <use img/numbers.png>
-Package pdftex.def Info: img/numbers.png  used on input line 118.
+Package pdftex.def Info: img/numbers.png  used on input line 108.
 (pdftex.def)             Requested size: 245.83282pt x 142.3333pt.
- [15
+ [13
 
  <./img/numbers.png>]
-<img/numberslist.png, id=104, 1317.42188pt x 471.26062pt>
+<img/numberslist.png, id=92, 1317.42188pt x 471.26062pt>
 File: img/numberslist.png Graphic file (type png)
 <use img/numberslist.png>
-Package pdftex.def Info: img/numberslist.png  used on input line 124.
+Package pdftex.def Info: img/numberslist.png  used on input line 114.
 (pdftex.def)             Requested size: 307.28987pt x 109.91931pt.
- [16
+ [14
 
  <./img/numberslist.png>]
-<img/more-numbers.png, id=110, 315.42844pt x 221.32687pt>
+<img/more-numbers.png, id=98, 315.42844pt x 221.32687pt>
 File: img/more-numbers.png Graphic file (type png)
 <use img/more-numbers.png>
-Package pdftex.def Info: img/more-numbers.png  used on input line 130.
+Package pdftex.def Info: img/more-numbers.png  used on input line 120.
 (pdftex.def)             Requested size: 245.83282pt x 172.49577pt.
- [17
+ [15
 
  <./img/more-numbers.png>]
-<img/geometry.png, id=116, 283.0575pt x 67.75313pt>
+<img/geometry.png, id=104, 283.0575pt x 67.75313pt>
 File: img/geometry.png Graphic file (type png)
 <use img/geometry.png>
-Package pdftex.def Info: img/geometry.png  used on input line 136.
+Package pdftex.def Info: img/geometry.png  used on input line 126.
 (pdftex.def)             Requested size: 245.83282pt x 58.84444pt.
- [18
+ [16
 
  <./img/geometry.png>]
-<img/4-drop.png, id=122, 792.9625pt x 376.40625pt>
+<img/4-drop.png, id=110, 792.9625pt x 376.40625pt>
 File: img/4-drop.png Graphic file (type png)
 <use img/4-drop.png>
-Package pdftex.def Info: img/4-drop.png  used on input line 141.
+Package pdftex.def Info: img/4-drop.png  used on input line 131.
 (pdftex.def)             Requested size: 307.28987pt x 145.86739pt.
- [19
+ [17
 
- <./img/4-drop.png>] [20
+ <./img/4-drop.png>] [18
 
 ]
-<img/6-twophase.png, id=134, 727.96968pt x 449.42906pt>
+<img/6-twophase.png, id=121, 727.96968pt x 449.42906pt>
 File: img/6-twophase.png Graphic file (type png)
 <use img/6-twophase.png>
-Package pdftex.def Info: img/6-twophase.png  used on input line 160.
+Package pdftex.def Info: img/6-twophase.png  used on input line 150.
 (pdftex.def)             Requested size: 537.75726pt x 332.00995pt.
 
-Overfull \hbox (230.46739pt too wide) in paragraph at lines 160--160
+Overfull \hbox (230.46739pt too wide) in paragraph at lines 150--150
 [][]  
  []
 
 
-Overfull \vbox (121.8008pt too high) detected at line 160
+Overfull \vbox (121.8008pt too high) detected at line 150
+ []
+
+[19
+
+ <./img/6-twophase.png>] [20
+
+]
+<img/11-pillowing.png, id=133, 299.61937pt x 293.59688pt>
+File: img/11-pillowing.png Graphic file (type png)
+<use img/11-pillowing.png>
+Package pdftex.def Info: img/11-pillowing.png  used on input line 163.
+(pdftex.def)             Requested size: 215.10196pt x 210.78479pt.
+
+Overfull \vbox (0.57564pt too high) detected at line 163
  []
 
 [21
 
- <./img/6-twophase.png>] [22
+ <./img/11-pillowing.png>] [22
+
+] [23
 
 ]
-<img/11-pillowing.png, id=145, 299.61937pt x 293.59688pt>
-File: img/11-pillowing.png Graphic file (type png)
-<use img/11-pillowing.png>
-Package pdftex.def Info: img/11-pillowing.png  used on input line 173.
-(pdftex.def)             Requested size: 215.10196pt x 210.78479pt.
-
-Overfull \vbox (0.57564pt too high) detected at line 173
- []
-
-[23
-
- <./img/11-pillowing.png>] [24
-
-] [25
-
-]
-<img/cuttingwood.jpg, id=162, 1074.0125pt x 703.62875pt>
+<img/cuttingwood.jpg, id=149, 1074.0125pt x 703.62875pt>
 File: img/cuttingwood.jpg Graphic file (type jpg)
 <use img/cuttingwood.jpg>
-Package pdftex.def Info: img/cuttingwood.jpg  used on input line 199.
+Package pdftex.def Info: img/cuttingwood.jpg  used on input line 189.
 (pdftex.def)             Requested size: 245.83282pt x 161.04744pt.
- [26
+ [24
 
  <./img/cuttingwood.jpg>]
-<img/10-assymetry.png, id=168, 566.86781pt x 566.115pt>
+<img/10-assymetry.png, id=155, 566.86781pt x 566.115pt>
 File: img/10-assymetry.png Graphic file (type png)
 <use img/10-assymetry.png>
-Package pdftex.def Info: img/10-assymetry.png  used on input line 204.
+Package pdftex.def Info: img/10-assymetry.png  used on input line 194.
 (pdftex.def)             Requested size: 215.10196pt x 214.81496pt.
 
-Overfull \vbox (4.6058pt too high) detected at line 204
+Overfull \vbox (4.6058pt too high) detected at line 194
  []
 
-[27
+[25
 
- <./img/10-assymetry.png>] [28
+ <./img/10-assymetry.png>] [26
 
-] [29
+] [27
 
-] [30
+] [28
 
 ]
-<img/wang-3d.png, id=189, 656.4525pt x 459.96844pt>
+<img/wang-3d.png, id=177, 656.4525pt x 459.96844pt>
 File: img/wang-3d.png Graphic file (type png)
 <use img/wang-3d.png>
-Package pdftex.def Info: img/wang-3d.png  used on input line 246.
+Package pdftex.def Info: img/wang-3d.png  used on input line 236.
 (pdftex.def)             Requested size: 245.83282pt x 172.2491pt.
- [31
+ [29
 
  <./img/wang-3d.png>]
-<img/wang-constants.png, id=196, 313.17pt x 50.43843pt>
+<img/wang-constants.png, id=183, 313.17pt x 50.43843pt>
 File: img/wang-constants.png Graphic file (type png)
 <use img/wang-constants.png>
-Package pdftex.def Info: img/wang-constants.png  used on input line 257.
+Package pdftex.def Info: img/wang-constants.png  used on input line 247.
 (pdftex.def)             Requested size: 184.3758pt x 29.69606pt.
- [32
+ [30
 
  <./img/wang-constants.png>]
 File: img/wang-constants.png Graphic file (type png)
 <use img/wang-constants.png>
-Package pdftex.def Info: img/wang-constants.png  used on input line 274.
+Package pdftex.def Info: img/wang-constants.png  used on input line 264.
 (pdftex.def)             Requested size: 184.3758pt x 29.69606pt.
- [33
+ [31
 
 ]
-<img/wang-sim.png, id=210, 755.07094pt x 312.41719pt>
+<img/wang-sim.png, id=198, 755.07094pt x 312.41719pt>
 File: img/wang-sim.png Graphic file (type png)
 <use img/wang-sim.png>
-Package pdftex.def Info: img/wang-sim.png  used on input line 280.
+Package pdftex.def Info: img/wang-sim.png  used on input line 270.
 (pdftex.def)             Requested size: 307.28987pt x 127.14322pt.
- [34
+ [32
 
  <./img/wang-sim.png>]
-<img/wang-high-weber.png, id=216, 500.62032pt x 365.11406pt>
+<img/wang-high-weber.png, id=204, 500.62032pt x 365.11406pt>
 File: img/wang-high-weber.png Graphic file (type png)
 <use img/wang-high-weber.png>
-Package pdftex.def Info: img/wang-high-weber.png  used on input line 287.
+Package pdftex.def Info: img/wang-high-weber.png  used on input line 278.
 (pdftex.def)             Requested size: 215.10196pt x 156.87898pt.
- [35
+ [33
 
  <./img/wang-high-weber.png>]
-<img/7-current.png, id=222, 578.91281pt x 579.66562pt>
+<img/7-current.png, id=210, 578.91281pt x 579.66562pt>
 File: img/7-current.png Graphic file (type png)
 <use img/7-current.png>
-Package pdftex.def Info: img/7-current.png  used on input line 291.
+Package pdftex.def Info: img/7-current.png  used on input line 282.
 (pdftex.def)             Requested size: 215.10196pt x 215.3751pt.
 
-Overfull \vbox (5.16595pt too high) detected at line 291
+Overfull \vbox (5.16595pt too high) detected at line 282
  []
 
-[36
+[34
 
- <./img/7-current.png>] [37
+ <./img/7-current.png>] [35
 
-] [38
+] [36
 
 ]
 \tf@nav=\write6
@@ -1020,17 +1004,17 @@ Package rerunfilecheck Info: File `cho-matthew-math451-twophase.out' has not cha
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 24087 strings out of 475247
- 469125 string characters out of 5752581
+ 24065 strings out of 475247
+ 468756 string characters out of 5752581
  1923785 words of memory out of 5000000
- 45041 multiletter control sequences out of 15000+600000
+ 45023 multiletter control sequences out of 15000+600000
  565114 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,13n,123p,630b,448s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cho-matthew-math451-twophase.pdf (38 pages, 4469407 bytes).
+Output written on cho-matthew-math451-twophase.pdf (36 pages, 4364982 bytes).
 PDF statistics:
- 289 PDF objects out of 1000 (max. 8388607)
- 77 named destinations out of 1000 (max. 500000)
- 157 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 274 PDF objects out of 1000 (max. 8388607)
+ 73 named destinations out of 1000 (max. 500000)
+ 147 words of extra memory for PDF output out of 10000 (max. 10000000)
 

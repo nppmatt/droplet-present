@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1711550131 "c:/Users/Flying/Desktop/school-shit/0-sp24/0-MATH-451(Applied II)/midterm-presentation/cho-matthew-math451-twophase.tex" "cho-matthew-math451-twophase.pdf" "cho-matthew-math451-twophase" 1711550133 0
+["pdflatex"] 1712472350 "c:/Users/Flying/Desktop/school-shit/0-sp24/0-MATH-451(Applied II)/midterm-presentation/cho-matthew-math451-twophase.tex" "cho-matthew-math451-twophase.pdf" "cho-matthew-math451-twophase" 1712472353 0
   "C:/Users/Flying/scoop/apps/latex/current/texmfs/data/fonts/map/pdftex/pdftex.map" 1711380803 81088 29d6fa367ac022d1b69251d68c0742e6 ""
   "C:/Users/Flying/scoop/apps/latex/current/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1697168877 24147160 afca26cbea8e10a729de95b9c1f4781e ""
   "C:/Users/Flying/scoop/apps/latex/current/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
@@ -205,11 +205,11 @@
   "C:/Users/Flying/scoop/apps/latex/current/texmfs/install/tex/latex/translator/translator.sty" 1622471510 8765 56d370785f0143111ff9898b5adfe08e ""
   "C:/Users/Flying/scoop/apps/latex/current/texmfs/install/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Flying/scoop/apps/latex/current/texmfs/install/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "c:/Users/Flying/Desktop/school-shit/0-sp24/0-MATH-451(Applied II)/midterm-presentation/cho-matthew-math451-twophase.tex" 1711550130 9700 049575d32e07e98e533b7dacf46cf589 ""
-  "cho-matthew-math451-twophase.aux" 1711550133 5726 5c5eff50063ccbb959b205b77d66f199 "pdflatex"
-  "cho-matthew-math451-twophase.nav" 1711550133 3713 b4326b9ee767cc9bf869da055cd3b169 "pdflatex"
-  "cho-matthew-math451-twophase.out" 1711550132 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cho-matthew-math451-twophase.tex" 1711550130 9700 049575d32e07e98e533b7dacf46cf589 ""
+  "c:/Users/Flying/Desktop/school-shit/0-sp24/0-MATH-451(Applied II)/midterm-presentation/cho-matthew-math451-twophase.tex" 1712472350 9482 a97b2ca8afe52b60c9d8d4d8eb1ff1d7 ""
+  "cho-matthew-math451-twophase.aux" 1712472353 5468 dbb4a6d12e22099dd65bf91a16ad3101 "pdflatex"
+  "cho-matthew-math451-twophase.nav" 1712472353 3527 28efe84b063680dbc32707ebb082dc5f "pdflatex"
+  "cho-matthew-math451-twophase.out" 1712472351 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cho-matthew-math451-twophase.tex" 1712472350 9482 a97b2ca8afe52b60c9d8d4d8eb1ff1d7 ""
   "img/0-caltech-maxwell.png" 1710944025 747181 756541a95a021ed054058c0001f20e82 ""
   "img/1-fisher.jpg" 1710944880 101671 147319c3e7d7fc2e1620d6f070e9a2a1 ""
   "img/10-assymetry.png" 1711379115 268046 f4f30e791f4afd9738d3b44de0b2fcb2 ""
@@ -220,8 +220,6 @@
   "img/5-headers.png" 1710945993 30368 7893d65df05977812ef0532937699d36 ""
   "img/6-twophase.png" 1710947064 20004 b9f9e751a13a912aa980cc2889330984 ""
   "img/7-current.png" 1710948276 1007203 32be75d61c5158d13a05dddfe2139d33 ""
-  "img/8-slurm.png" 1710942519 97522 e489f8d99c4da15f403f207f499653ea ""
-  "img/9-njit.png" 1710949211 9301 fc34649e8c60f27c0e41cf0b9955b544 ""
   "img/cuttingwood.jpg" 1711540759 101803 21fa5669858284700c73a2d9b9c723b2 ""
   "img/geometry.png" 1711547719 2238 237d9812c6e9f32cbbf9c42fa24d9567 ""
   "img/more-numbers.png" 1711547551 7432 521888e173d30470e1b836f459630ed7 ""
